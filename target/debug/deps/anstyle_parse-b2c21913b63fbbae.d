@@ -1,0 +1,9 @@
+C:\Users\xisun\Downloads\project1-ch1\project1-ch1\target\debug\deps\libanstyle_parse-b2c21913b63fbbae.rmeta: C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\lib.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\params.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\mod.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\definitions.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\table.rs
+
+C:\Users\xisun\Downloads\project1-ch1\project1-ch1\target\debug\deps\anstyle_parse-b2c21913b63fbbae.d: C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\lib.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\params.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\mod.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\definitions.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\table.rs
+
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\lib.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\params.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\mod.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\definitions.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-parse-0.2.4\src\state\table.rs:

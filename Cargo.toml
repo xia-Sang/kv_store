@@ -1,0 +1,14 @@
+[package]
+name = "kvs"
+version = "0.1.0"
+authors = ["xiaSang <3188674636@qq.com>"]
+description = "A key-value store"
+edition = "2018"
+
+# install dependencies
+[dependencies]
+clap = "4.5.9"
+
+[dev-dependencies]
+assert_cmd = "2.0.14"
+predicates = "3.1.0"

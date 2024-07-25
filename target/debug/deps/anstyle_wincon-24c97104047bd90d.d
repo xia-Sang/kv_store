@@ -1,0 +1,10 @@
+C:\Users\xisun\Downloads\project1-ch1\project1-ch1\target\debug\deps\libanstyle_wincon-24c97104047bd90d.rmeta: C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\windows.rs
+
+C:\Users\xisun\Downloads\project1-ch1\project1-ch1\target\debug\deps\libanstyle_wincon-24c97104047bd90d.rlib: C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\windows.rs
+
+C:\Users\xisun\Downloads\project1-ch1\project1-ch1\target\debug\deps\anstyle_wincon-24c97104047bd90d.d: C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\lib.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\ansi.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\stream.rs C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\windows.rs
+
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\lib.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\ansi.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\stream.rs:
+C:\Users\xisun\.cargo\registry\src\mirrors.ustc.edu.cn-4affec411d11e50f\anstyle-wincon-3.0.3\src\windows.rs:
