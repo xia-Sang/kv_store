@@ -1,6 +1,3 @@
-// just leave it empty for now
-
-// #![deny(missing_docs)]
 
 use std::collections::HashMap;
 
